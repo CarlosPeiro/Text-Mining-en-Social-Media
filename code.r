@@ -13,8 +13,8 @@ start.time <- Sys.time()
 # **************************************************************************
 # Preparacion de parametros, estaticos
 lang <- "es"
-path_training <- "C:/Users/ASUS/Documents/Master Big Data/Text Mining en Social Media/pan-ap17-bigdata/training"		# Your training path
-path_test <- "C:/Users/ASUS/Documents/Master Big Data/Text Mining en Social Media/pan-ap17-bigdata/test"							# Your test path
+path_training <- "" # Your training path
+path_test <- ""	# Your test path
 
 # Preparacion de parametros, estaticos
 n <- 150
